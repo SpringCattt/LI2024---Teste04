@@ -1,0 +1,17 @@
+git clone https://github.com/SpringCattt/LI2024---Teste04.git
+New-Item -Path script.js -ItemType File
+New-Item -Path style.css -ItemType File
+git add . 
+git commit -m "2ª tarefa concluída: pastas js e css criadas."
+git push origin main
+
+git commit -m "3ª tarefa concluída."
+git push origin main
+
+git add .
+git commit -m "4ª tarefa concluída."
+git push origin main
+
+git add .
+git commit -m "5ª tarefa concluída."
+git push origin main
